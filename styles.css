@@ -1,8 +1,8 @@
-body 
+body {
     color: white;
     background: black;
     margin: 0px;
-
+}
 
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
@@ -17,7 +17,7 @@ section {
 	padding-top: 80px;
 	display: flex;
 	justify-content: center;
-}
+
 
 .chamada-texto {
     margin-right: 5%;
